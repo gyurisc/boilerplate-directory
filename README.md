@@ -1,2 +1,2 @@
-# boilerplate-directory
-A simple directory website for boilerplates
+# Boilerplate directory
+A simple nextjs directory website for boilerplate starter kits. 
