@@ -1,0 +1,134 @@
+[
+    {
+      "id": "1",
+      "name": "SaaS Starter Kit",
+      "description": "A complete SaaS boilerplate with authentication, billing, and team management built with Next.js and Prisma.",
+      "image": "/placeholder.svg?height=200&width=300",
+      "url": "https://github.com/example/saas-starter",
+      "categories": ["SaaS", "Full-Stack"],
+      "tags": ["Next.js", "Prisma", "Stripe", "TypeScript", "Tailwind CSS"],
+      "dateAdded": "2023-10-15",
+      "popularity": 95
+    },
+    {
+      "id": "2",
+      "name": "E-commerce Boilerplate",
+      "description": "A feature-rich e-commerce starter with product management, cart functionality, and checkout process.",
+      "image": "/placeholder.svg?height=200&width=300",
+      "url": "https://github.com/example/ecommerce-boilerplate",
+      "categories": ["E-commerce", "Full-Stack"],
+      "tags": ["Next.js", "MongoDB", "Stripe", "React", "Tailwind CSS"],
+      "dateAdded": "2023-09-22",
+      "popularity": 88
+    },
+    {
+      "id": "3",
+      "name": "Blog Engine Starter",
+      "description": "A minimal blog platform with markdown support, categories, and SEO optimization.",
+      "image": "/placeholder.svg?height=200&width=300",
+      "url": "https://github.com/example/blog-starter",
+      "categories": ["Blog", "Content"],
+      "tags": ["Next.js", "MDX", "TypeScript", "Tailwind CSS"],
+      "dateAdded": "2023-11-05",
+      "popularity": 82
+    },
+    {
+      "id": "4",
+      "name": "Admin Dashboard Template",
+      "description": "A comprehensive admin panel with charts, tables, and form components for managing application data.",
+      "image": "/placeholder.svg?height=200&width=300",
+      "url": "https://github.com/example/admin-dashboard",
+      "categories": ["Admin", "Dashboard"],
+      "tags": ["React", "TypeScript", "Chart.js", "Tailwind CSS"],
+      "dateAdded": "2023-08-30",
+      "popularity": 90
+    },
+    {
+      "id": "5",
+      "name": "API Backend Starter",
+      "description": "A RESTful API boilerplate with authentication, rate limiting, and documentation.",
+      "image": "/placeholder.svg?height=200&width=300",
+      "url": "https://github.com/example/api-starter",
+      "categories": ["API", "Backend"],
+      "tags": ["Node.js", "Express", "MongoDB", "JWT", "Swagger"],
+      "dateAdded": "2023-07-18",
+      "popularity": 85
+    },
+    {
+      "id": "6",
+      "name": "Landing Page Generator",
+      "description": "A collection of landing page templates with customizable sections and components.",
+      "image": "/placeholder.svg?height=200&width=300",
+      "url": "https://github.com/example/landing-page-generator",
+      "categories": ["Landing Page", "Marketing"],
+      "tags": ["HTML", "CSS", "JavaScript", "Bootstrap"],
+      "dateAdded": "2023-10-02",
+      "popularity": 78
+    },
+    {
+      "id": "7",
+      "name": "Authentication Starter",
+      "description": "A complete authentication system with social logins, email verification, and password reset.",
+      "image": "/placeholder.svg?height=200&width=300",
+      "url": "https://github.com/example/auth-starter",
+      "categories": ["Authentication", "Security"],
+      "tags": ["Next.js", "NextAuth.js", "Prisma", "TypeScript"],
+      "dateAdded": "2023-09-14",
+      "popularity": 92
+    },
+    {
+      "id": "8",
+      "name": "Real-time Chat Application",
+      "description": "A scalable chat platform with private messaging, group chats, and notifications.",
+      "image": "/placeholder.svg?height=200&width=300",
+      "url": "https://github.com/example/chat-app",
+      "categories": ["Chat", "Real-time"],
+      "tags": ["React", "Socket.io", "Node.js", "MongoDB"],
+      "dateAdded": "2023-11-20",
+      "popularity": 87
+    },
+    {
+      "id": "9",
+      "name": "Portfolio Template",
+      "description": "A customizable portfolio website for developers and designers to showcase their work.",
+      "image": "/placeholder.svg?height=200&width=300",
+      "url": "https://github.com/example/portfolio-template",
+      "categories": ["Portfolio", "Personal"],
+      "tags": ["React", "Gatsby", "GraphQL", "Styled Components"],
+      "dateAdded": "2023-08-05",
+      "popularity": 80
+    },
+    {
+      "id": "10",
+      "name": "Mobile App Starter",
+      "description": "A cross-platform mobile app template with navigation, state management, and API integration.",
+      "image": "/placeholder.svg?height=200&width=300",
+      "url": "https://github.com/example/mobile-app-starter",
+      "categories": ["Mobile", "Cross-platform"],
+      "tags": ["React Native", "Expo", "Redux", "TypeScript"],
+      "dateAdded": "2023-10-28",
+      "popularity": 86
+    },
+    {
+      "id": "11",
+      "name": "Serverless Functions Boilerplate",
+      "description": "A collection of serverless function templates for various cloud providers and use cases.",
+      "image": "/placeholder.svg?height=200&width=300",
+      "url": "https://github.com/example/serverless-boilerplate",
+      "categories": ["Serverless", "Cloud"],
+      "tags": ["AWS Lambda", "Vercel Functions", "Netlify Functions", "TypeScript"],
+      "dateAdded": "2023-09-08",
+      "popularity": 83
+    },
+    {
+      "id": "12",
+      "name": "GraphQL API Starter",
+      "description": "A GraphQL server with schema definitions, resolvers, and authentication middleware.",
+      "image": "/placeholder.svg?height=200&width=300",
+      "url": "https://github.com/example/graphql-starter",
+      "categories": ["API", "GraphQL"],
+      "tags": ["Node.js", "Apollo", "TypeScript", "MongoDB"],
+      "dateAdded": "2023-11-12",
+      "popularity": 89
+    }
+  ]  
