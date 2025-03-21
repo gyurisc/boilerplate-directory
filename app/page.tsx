@@ -13,10 +13,7 @@ import { BoilerplateExplorer } from '@/components/BoilerplatExplorer'
 export default function Home() {
   const boilerplates = boilerplatesData as Boilerplate[];
   const categories = getAllCategories(boilerplates);
-
-  console.log('FUCK');
-  console.log('categories: ', categories);
-
+  
   return (
     <div className="flex min-h-screen flex-col">
     <Header />
