@@ -1,13 +1,13 @@
 import type { Metadata } from "next";
 import "./globals.css";
 import { Inter } from "next/font/google"
-
+import { config } from "@/config";
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Boilerplate Directory - Find the Perfect Starter Kit",
-  description:
-    "Browse, search, and filter through various boilerplate options to find the right foundation for your projects.",
+  title: `${config.directoryName} - ${config.directoryBlurb}`,
+  description: config.directoryDescription,
+  keywords: config.directoryKeywords,
 }
 
 export default function RootLayout({
